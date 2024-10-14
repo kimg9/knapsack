@@ -17,6 +17,7 @@ Given the following stock data:
 | Stock A     |   100 |    20% |
 | Stock B     |   200 |     3% |
 | Stock C     |   150 |   4.5% |
+
 If the budget is €200, the output will provide the optimal stocks to purchase and the maximum profit achievable over the two years.
 
 ## Algorithm Explanation
