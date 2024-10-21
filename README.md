@@ -29,4 +29,4 @@ This solution employs a dynamic programming approach to tackle the Knapsack prob
 
 ## Acknowledgments
 * [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
-* [Knapsack Problem])(https://en.wikipedia.org/wiki/Knapsack_problem)
+* [Knapsack Problem](https://en.wikipedia.org/wiki/Knapsack_problem)
